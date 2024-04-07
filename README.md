@@ -12,5 +12,8 @@ City Skyline with CSS is a project that demonstrates the creation of a simple sk
   
 - **Responsive Design:** The skyline is designed to be responsive and adjusts its layout based on the viewport size, ensuring optimal viewing across different devices.
 
+Here are the results:
+
 ![Morning Skyline](morning_skyline.png)
+
 ![Night Skyline](night_skyline.png)
