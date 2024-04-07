@@ -10,13 +10,13 @@ City Skyline with CSS is a project that demonstrates the creation of a simple sk
 
 - **Responsive Design:** The skyline is designed to be responsive, meaning it adapts its layout and appearance based on the viewport size or screen resolution. This ensures that the skyline remains visually appealing and functional across a wide range of devices, including desktops, tablets, and smartphones.
 
-- **Dynamic Color Transition:** One notable feature of the skyline is its ability to transition between a daytime and nighttime appearance. This transition is achieved dynamically through adjustments in CSS variables for building and window colors. As a result, users can experience the changing ambiance of the city skyline from day to night.
+- **Dynamic Color Transition:** One notable feature of the skyline is its ability to transition between a daytime and nighttime appearance. This transition is achieved dynamically through adjustments in CSS variables for building and window colors. A media query adjusts the root variables for building and window colors when the viewport width is less than or equal to 1000px. This change in colors may simulate the transition from morning to night, where the buildings and windows may appear differently lit or colored depending on the time of day. As a result, users can experience the changing ambiance of the city skyline from day to night.
 
 ## Results
 Here are the results:
 
 Morning Skyline:
-![Morning Skyline](morning_skyline.jpg)
+![Morning Skyline](morning_skyline.png)
 
 Night Skyline:
-![Night Skyline](night_skyline.jpg)
+![Night Skyline](night_skyline.png)
